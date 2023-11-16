@@ -1,0 +1,27 @@
+.carousel_main {
+    display: flex;
+    align-items: center;
+    display: inline-block;
+    background-color: beige;
+}
+  
+.carousel_item_display {
+    align-items: center;
+}
+  
+  .carousel_image {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+  
+    border: black 2px solid;
+  }
+  
+  .carousel_button {
+    border-radius: 100px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: normal;
+  
+    margin: 3em;
+  }
